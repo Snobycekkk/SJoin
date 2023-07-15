@@ -1,0 +1,4 @@
+name: SJoin
+version: '${project.version}'
+main: eu.snobycek.sjoin.SJoin
+api-version: 1.20
