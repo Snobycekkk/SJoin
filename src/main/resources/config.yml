@@ -1,0 +1,13 @@
+# Plugin by Snobycek
+
+# Enable/disable join messages
+joinMessageEnabled: true
+
+# Enable/disable leave messages
+leaveMessageEnabled: true
+
+# Join message format
+joinMessage: "&a%player% joined the server!"
+
+# Leave message format
+leaveMessage: "&c%player% left the server!"
